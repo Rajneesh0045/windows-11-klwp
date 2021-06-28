@@ -1,0 +1,16 @@
+{
+  "wallpapers": [
+    {
+      "author": "Microsoft",
+      "url": "https://raw.githubusercontent.com/Rajneesh0045/windows-11-klwp/main/images/img0__1920x1200.jpeg",
+      "name": "Wall light",
+      "thumbnail": "https://raw.githubusercontent.com/Rajneesh0045/windows-11-klwp/main/images/img0__1920x1200.jpeg"
+    },
+    {
+      "author": "Microsoft",
+      "url": "https://raw.githubusercontent.com/Rajneesh0045/windows-11-klwp/main/images/img19_1920x1200.jpeg",
+      "name": "Wall dark",
+      "thumbnail": "https://raw.githubusercontent.com/Rajneesh0045/windows-11-klwp/main/images/img19_1920x1200.jpeg"
+    }
+  ]
+}
